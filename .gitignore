@@ -4,4 +4,6 @@ coco_data/images/
 yolo_data/images/
 yolo_data/labels/annotations/images/
 
+runs/detect/train/*.jpg
+
 yolov8n.pt
