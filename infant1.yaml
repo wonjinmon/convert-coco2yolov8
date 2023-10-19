@@ -1,0 +1,7 @@
+path: ../
+train: result/
+val: result/
+# test:
+
+names:
+  0: infant
